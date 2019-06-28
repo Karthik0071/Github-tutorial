@@ -1,2 +1,3 @@
 started learining git. I know 0%.
 I think I know 5% now.
+I learned 10%. I know git pull now.
